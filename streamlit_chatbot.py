@@ -1,5 +1,3 @@
-pip install pandas tensorflow tensorflow-hub tensorflow-text scikit-learn
-
 import pandas as pd
 import tensorflow as tf
 import tensorflow_hub as hub
